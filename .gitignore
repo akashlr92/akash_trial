@@ -1,0 +1,32 @@
+# Media files are large — keep them out of Git (back them up elsewhere)
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.m4v
+*.mxf
+*.wav
+*.mp3
+*.aac
+*.m4a
+*.flac
+*.ogg
+*.psd
+exports/*
+!exports/.gitkeep
+
+# Editor caches / proxies
+*.cache
+proxies/
+CacheClip/
+.gallery/
+*.pek
+*.cfa
+
+# OS / Python
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.venv/
