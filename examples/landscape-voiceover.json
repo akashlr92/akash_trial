@@ -1,0 +1,14 @@
+{
+  "output": "exports/explainer.mp4",
+  "format": "landscape",
+  "voice": "en-US-GuyNeural",
+  "music": "assets/music/bg.mp3",
+  "music_volume": 0.12,
+  "position": "bottom",
+  "box": true,
+  "scenes": [
+    { "text": "What is compound interest?", "say": "What is compound interest? Let's break it down in under a minute.", "background": "#0f172a" },
+    { "text": "Interest on your interest", "say": "It's simply earning interest on the interest you've already earned.", "background": "assets/images/coins.jpg" },
+    { "text": "Start early", "audio": "assets/voice/scene3.mp3", "background": "footage/broll/city.mp4" }
+  ]
+}

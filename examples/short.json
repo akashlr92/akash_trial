@@ -1,0 +1,15 @@
+{
+  "output": "exports/short.mp4",
+  "format": "vertical",
+  "background": "#111827",
+  "music": "assets/music/bg.mp3",
+  "music_volume": 0.15,
+  "box": true,
+  "scenes": [
+    { "text": "3 habits that changed my mornings", "duration": 3, "background": "#7c3aed" },
+    { "text": "1. No phone for the first hour", "duration": 3, "background": "assets/images/morning.jpg" },
+    { "text": "2. Ten minutes of walking outside", "duration": 3, "background": "footage/broll/walk.mp4", "position": "bottom" },
+    { "text": "3. Write down one goal for the day", "duration": 3 },
+    { "text": "Follow for more!", "duration": 2, "background": "#7c3aed" }
+  ]
+}
